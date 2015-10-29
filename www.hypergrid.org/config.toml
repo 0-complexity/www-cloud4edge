@@ -1,6 +1,6 @@
 baseurl = "/"
 LanguageCode = "en"
-title = "Gener8"
+title = "HyperGrid"
 theme = "landing"
 contentdir = "content"
 staticdir = "static"
