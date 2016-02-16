@@ -6,7 +6,7 @@ header = "Our Resolution"
 summary = "Join the Cloud4Edge network and conform to our delivery vision."
 
 block1_title_strong = "To the Edge"
-block1_text = "Our joint mission is to create a hyper distributed cloud capacity network"
+block1_text = "Our joint mission is to create and connect all our hyper-distributed clouds"
 block1_icon = "desktop"
 block1_text_link="read more"
 block1_link = "#"
