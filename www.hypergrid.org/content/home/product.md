@@ -1,8 +1,8 @@
 +++
 #Don't remove title!
-title = "services"
+title = "Services"
 
-header = "Requirements"
+header = "Services"
 summary = "Join the Cloud4Edge network and conform to our delivery resolution."
 
 block1_title_strong = "To the Edge"
