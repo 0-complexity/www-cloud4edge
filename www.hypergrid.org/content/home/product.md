@@ -1,6 +1,6 @@
 +++
 #Don't remove title!
-title = "Requirements"
+title = "services"
 
 header = "Requirements"
 summary = "Join the Cloud4Edge network and conform to our delivery resolution."
