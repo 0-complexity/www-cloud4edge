@@ -2,7 +2,7 @@
 #Don't remove name!
 title = "footer_box"
 
-footer_logo = "/images/logo-footer.png"
+footer_logo = "/images/cloud4edge-logo-white.png"
 
 first_section = "guest"
 

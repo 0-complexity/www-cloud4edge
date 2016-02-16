@@ -5,6 +5,6 @@ title = "header"
 email = "support@domain.com"
 facebook_link = "#"
 twitter_link = "#"
-logo_img = "/images/logo.png"
-logo_large_img = "/images/logo-xs.png"
+logo_img = "/images/cloud4edge-logo.png"
+logo_large_img = "/images/cloud4edge-logo.png"
 +++
