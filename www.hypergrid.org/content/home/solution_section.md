@@ -3,7 +3,7 @@
 title = "solution_section"
 
 header = "Cloud4Edge Ecosystem"
-summary = "Join our disruptive ecosystem. Let's discuss today ."
+summary = "Join our disruptive ecosystem and share your creativity to change the world with our team."
 
 solution_image = "/images/screen-7.png"
 
