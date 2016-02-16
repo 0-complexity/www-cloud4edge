@@ -4194,8 +4194,9 @@ ul.tags {
     display: block;
     letter-spacing: 0.1em; }
   .intro-slider .slide .text {
-    margin-top: 6em;
-    width: 50%; }
+    margin-top: 5em;
+    width: 50%;
+    }
   .intro-slider .slide h1 {
     font: 300 2.3em/1em "Roboto Condensed";
     margin: 10px 0 20px 0;
