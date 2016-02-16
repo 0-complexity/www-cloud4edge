@@ -3,11 +3,11 @@
 title = "intro_slider_box"
 
 
-slide1_title_main_button = "multipurpose"
-slide1_title_small = "multipurpose"
-slide1_title_large= "modular design"
-slide1_text = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud."
-slide1_button = "learn more"
+slide1_title_main_button = "IT as Energy"
+slide1_title_small = "Share the Cloud"
+slide1_title_large= "IT as Energy"
+slide1_text = "Imagine a world in which privacy is no longer in the hands of a handful of corporate giants. Where IT is available and affordable to everyone. Where we stop the strain on energy supplies."
+slide1_button = "Welcome to Cloud4Edge"
 slide1_more_link = "#"
 slide1_pic = "/images/screen-4.png" 
 
