@@ -57,5 +57,5 @@ third_section_title4 = "View Cart"
 third_section_link4 = "#"
 
 
-copy_right = "© 2015 Your Corporation. Theme by Rahisi Themes."
+copy_right = "© 2015 Green IT Globe NV. All Rights Reserved."
 +++
