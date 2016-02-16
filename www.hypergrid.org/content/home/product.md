@@ -2,8 +2,8 @@
 #Don't remove title!
 title = "product"
 
-header = "Services"
-summary = "Join the Cloud4Edge network and conform to our delivery resolution."
+header = "Our Resolution"
+summary = "Join the Cloud4Edge network and conform to our delivery vision."
 
 block1_title_strong = "To the Edge"
 block1_text = "Our joint mission is to create a hyper distributed cloud capacity network"
