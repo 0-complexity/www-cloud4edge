@@ -7,7 +7,7 @@ summary = "Join our disruptive ecosystem and share your creativity to change the
 
 solution_image = "/images/screen-7.png"
 
-second_header = "Neutral. Independent. Intimate Cloud"
+second_header = "Neutral. Independent. Intimate. Cloud Experience."
 second_summary = "."
 
 first_solution_icon = "#"
