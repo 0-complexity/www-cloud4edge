@@ -166,8 +166,8 @@
   -ms-background-size: cover!important;
   background-size: cover!important; }
 
-.cover-1-bg {
-  background: url("../../images/backgrounds/cover1.jpg") no-repeat center 0 fixed; }
+/*.cover-1-bg {
+  background: url("../../images/backgrounds/cover1.jpg") no-repeat center 0 fixed; }*/
 
 .cover-2-bg {
   background: url("../../images/backgrounds/cover2.jpg") no-repeat center 0 fixed; }
@@ -178,8 +178,8 @@
 .cover-4-bg {
   background: url("../../images/backgrounds/cover4.jpg") no-repeat center 0 fixed; }
 
-.page-bg {
-  background: url("../../images/backgrounds/cover1.jpg") no-repeat center 0 fixed; }
+/*.page-bg {
+  background: url("../../images/backgrounds/cover1.jpg") no-repeat center 0 fixed; }*/
 
 /* UTILITY CLASSES
 ------------------------------------------- */
