@@ -4,9 +4,9 @@ title = "Cloud4Edge Conspiracy"
 
 <img class="gener8Logo" src="/images/gener8-logo.png">
 ### The team conspiring together
-The driving forces behind Cloud4Edge
+Realizing the Cloud4Edge mission 
 
-* Sacha Vekeman, marketing: bringing the message to the edge
+* <b>Sacha Vekeman</b>, marketing: bringing the message to the edge
 * Andreas Hartl, partners: growing the partners at the edge
 * Yves Kerwyn, evangelist: activating pilots to the edge
 
@@ -18,4 +18,3 @@ They make sure that Cloud4Edge remains a neutral and independent cloud initiativ
 * Willem Hendrickx, Founder and CEO of Green IT Globe
 * George El Aily, Founder and CEO of Kleos
 * Achim Hasenmueller, Founder of VirtualBox
-
