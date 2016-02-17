@@ -4,7 +4,7 @@ title = "Cloud4Edge Conspiracy"
 
 <img class="gener8Logo" src="/images/gener8-logo.png">
 ### The team conspiring together
-Driving forces behind Cloud4Edge
+The driving forces behind Cloud4Edge
 
 ##Sacha Vekeman, marketing 
 bringing the message to the edge
@@ -17,15 +17,21 @@ activating pilots to the edge
 
 
 
-### The group making the conspiracy
-Making sure that that Cloud4Edge remains a neutral and independent cloud initiative.
-##Kristof De Spiegeleer
-fdfsafds
-fdsafdsa
-##Willem Hendrickx
-fdsasfdsaf
-fdsafdsaf
+### The group protecting the conspiracy
+This group of neutral advisors, investors and alliance stakeholders hold regular meetings to protect the neutrality and growth of Cloud4Edge.
+They make sure that Cloud4Edge remains a neutral and independent cloud initiative in which our alliances feel valued.
 
+##Kristof De Spiegeleer
+Chairman of Cloud4Edge and technology visionary
+
+##Willem Hendrickx
+Founder and CEO of Green IT Globe
+
+##George El Aily
+Founder and CEO of Kleos
+
+##Achim Hasenmueller
+Founder of VirtualBox
 
 
 * Petabyte archive building block, no limits to scalability
