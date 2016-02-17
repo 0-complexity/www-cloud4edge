@@ -5,7 +5,7 @@ title = "solution_section"
 header = "Cloud4Edge Ecosystem"
 summary = "Join our disruptive ecosystem and share your creativity to change the world."
 
-solution_image = "/images/screen-7.png"
+solution_image = "/images/ecosystem.jpg"
 
 second_header = "Neutral. Independent. Intimate. Cloud Experience."
 second_summary = "."
