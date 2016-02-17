@@ -1,15 +1,27 @@
 +++
-title = "Gener8"
+title = "Cloud4Edge Conspiracy"
 +++
 
 <img class="gener8Logo" src="/images/gener8-logo.png">
-### IT Building Blocks
+### The team conspiring together
+Driving forces behind Cloud4Edge
+##Sacha Vekeman: Taking marketing to the edge
+fsdjklfjdsak;lfjdsa
+fdasfjldsalkfjds
+##Yves Kerwyn, Evangelist taking people to the edge
+fdsfsafds
+fdsafdas
 
-Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.
+### The group making the conspiracy
+Objective: Making sure that that Cloud4Edge remains a neutral and independent initiative 
+##Kristof De Spiegeleer
+fdfsafds
+fdsafdsa
+##Willem Hendrickx
+fdsasfdsaf
+fdsafdsaf
 
-### Gener8-PB
 
-This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.
 
 * Petabyte archive building block, no limits to scalability
 * Power-friendly, comparable with energy for 2 toasters
