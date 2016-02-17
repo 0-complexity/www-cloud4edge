@@ -6,13 +6,13 @@ title = "Cloud4Edge Conspiracy"
 ### The team conspiring together
 The driving forces behind Cloud4Edge
 
-##Sacha Vekeman, marketing 
+#Sacha Vekeman, marketing 
 bringing the message to the edge
 
-##Andreas Hartl, partners
+#Andreas Hartl, partners
 growing the partners at the edge
 
-##Yves Kerwyn, evangelist
+#Yves Kerwyn, evangelist
 activating pilots to the edge
 
 
@@ -21,16 +21,16 @@ activating pilots to the edge
 This group of neutral advisors, investors and alliance stakeholders hold regular meetings to protect the neutrality and growth of Cloud4Edge.
 They make sure that Cloud4Edge remains a neutral and independent cloud initiative in which our alliances feel valued.
 
-##Kristof De Spiegeleer
+#Kristof De Spiegeleer
 Chairman of Cloud4Edge and technology visionary
 
-##Willem Hendrickx
+#Willem Hendrickx
 Founder and CEO of Green IT Globe
 
-##George El Aily
+#George El Aily
 Founder and CEO of Kleos
 
-##Achim Hasenmueller
+#Achim Hasenmueller
 Founder of VirtualBox
 
 
