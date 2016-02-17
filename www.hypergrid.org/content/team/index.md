@@ -5,15 +5,20 @@ title = "Cloud4Edge Conspiracy"
 <img class="gener8Logo" src="/images/gener8-logo.png">
 ### The team conspiring together
 Driving forces behind Cloud4Edge
-##Sacha Vekeman: Taking marketing to the edge
-fsdjklfjdsak;lfjdsa
-fdasfjldsalkfjds
-##Yves Kerwyn, Evangelist taking people to the edge
-fdsfsafds
-fdsafdas
+
+##Sacha Vekeman, marketing 
+bringing the message to the edge
+
+##Andreas Hartl, partners
+growing the partners at the edge
+
+##Yves Kerwyn, evangelist
+activating pilots to the edge
+
+
 
 ### The group making the conspiracy
-Objective: Making sure that that Cloud4Edge remains a neutral and independent initiative 
+Making sure that that Cloud4Edge remains a neutral and independent cloud initiative.
 ##Kristof De Spiegeleer
 fdfsafds
 fdsafdsa
