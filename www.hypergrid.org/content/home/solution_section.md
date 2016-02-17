@@ -28,6 +28,6 @@ third_solution_date = "Market value added solutions"
 fourth_solution_icon = "#"
 fourth_solution_title = "Create Marketplace"
 fourth_solution_link = "#"
-fourth_solution_date = "Sell and onboarding of users"
+fourth_solution_date = "Sell and onboard new users"
 
 +++
