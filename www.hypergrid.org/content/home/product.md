@@ -3,7 +3,7 @@
 title = "product"
 
 header = "Sine Qua Non"
-summary = "Join our network and conform to the indispensable and essential conditions to join our movement and deliver the vision."
+summary = "Join our movement and conform to the indispensable and essential conditions to deliver the vision."
 
 block1_title_strong = "To the Edge"
 block1_text = "Our joint mission is to create and connect all our hyper-distributed clouds"
