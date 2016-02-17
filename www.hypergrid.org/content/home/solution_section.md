@@ -7,13 +7,13 @@ summary = "Let's create a ripple effect together and drive disruption into the c
 
 solution_image = "/images/ecosystem.jpg"
 
-second_header = "Neutral. Independent. Intimate. Cloud Experience."
+second_header = "How to Realize a Neutral, Independent and Intimate Cloud Experience."
 second_summary = "."
 
 first_solution_icon = "#"
-first_solution_title = "Connect Your Capacity"
+first_solution_title = "Share Your Capacity"
 first_solution_link = "#"
-first_solution_date = "Available in March 2016"
+first_solution_date = "Increase our footprint"
 
 second_solution_icon = "#"
 second_solution_title = "Access Edge Network"
