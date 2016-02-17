@@ -30,4 +30,7 @@ fourth_solution_title = "Create Marketplace"
 fourth_solution_link = "#"
 fourth_solution_date = "Sell and onboard new users"
 
+btn_link = "/contactus" 
+btn_text = "Join the movement"
+
 +++
