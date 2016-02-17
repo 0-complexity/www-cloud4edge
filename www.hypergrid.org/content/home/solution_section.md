@@ -2,7 +2,7 @@
 #Don't remove title!
 title = "solution_section"
 
-header = "Cloud4Edge Ecosystem"
+header = "Let's create a ripple effect together"
 summary = "Join our disruptive ecosystem and share your creativity to change the world."
 
 solution_image = "/images/ecosystem.jpg"
