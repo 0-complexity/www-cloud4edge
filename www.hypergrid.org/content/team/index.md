@@ -4,7 +4,7 @@ title = "Cloud4Edge Conspiracy"
 
 <img class="gener8Logo" src="/images/gener8-logo.png">
 ### The team conspiring together
-Realizing the Cloud4Edge mission 
+We are working hard to realize the Cloud4Edge mission and turning the IT as Energy vision into reality. When you are interested to become a Cloud4Edge ally, please talk to us.  
 
 * <b>Sacha Vekeman</b>, marketing: bringing the message to the edge
 * Andreas Hartl, partners: growing the partners at the edge
