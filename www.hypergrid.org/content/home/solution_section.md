@@ -2,8 +2,8 @@
 #Don't remove title!
 title = "solution_section"
 
-header = "Let's create a ripple effect together"
-summary = "Join our disruptive ecosystem and share your creativity to change the world."
+header = "Ripple Effect"
+summary = "Let's create a ripple effect together and drive disruption into the cloud ecosystem so we can make a better world."
 
 solution_image = "/images/ecosystem.jpg"
 
