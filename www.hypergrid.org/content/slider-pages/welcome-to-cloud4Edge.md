@@ -1,51 +1,30 @@
-+++
-title = "Gener8"
+#Don't remove title!
+title = "Welcome to IT As Energy"
 +++
 
 <img class="gener8Logo" src="/images/gener8-logo.png">
-### IT Building Blocks
 
-Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.
+## IT = Energy
+Energy is driving our global economy and the welfare of our society. The importance of Energy is driving the creation and adoption of new Energy sources, such as solar and hydro power, renewable and green energy, so more and more people can take advantage of it.
 
-### Gener8-PB
+But IT is also Energy. 
+The reliance on IT as natural resource for companies and society is as important as electricity. Electricity was the primary energy source for the industrial revolution to happen, disrupting the agricultural society. But now we have entered the informational revolution in which IT is the primary resource for computer automation and ubiquitous digitization.
 
-This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.
+## IT Evolution
+IT has evolved into the integration and stacking of thousands of independant IT components,  dedicated servers, storage systems and networking hardware. This led to very complex and unreliable infrastructure stack which is very costly to maintain.
 
-* Petabyte archive building block, no limits to scalability
-* Power-friendly, comparable with energy for 2 toasters
-* Self-healing and regenarating storage
-* Simplified interfaces, standard fileserver
-* Digital preservation is possible for 30+ years
+Virtualization enabled the spread IT workloads over different hardware, while the IT workloads took up less capacity from the dedicated servers. This led to a reduction in power consumption and more flexibility to create new and maintain existing IT workloads.
 
-#### Technical
+Today we have entered “The Cloud” era in which IT workloads can be created faster as no dedicated hardware needs to be purchased and installed. The interfaces provide great flexibility to IT administrators to manage and maintain IT workloads, when you consolidate all your workloads in the same Cloud, e.g. Amazon, Microsoft Azure, Google.
 
-* 1.5 PB
-* NAS & SAN Interface
-* 56 Gbit/sec ethernet
-* 2.000 MB/sec ingest speed
-* 1.000.000 IOPs (IO Operations Per Second)
-* Height of building block is 140cm
+Cloud services deliver us tools and interfaces which make it easy to organize and maintain virtualized workloads. Painfully, all this extra flexibility results in a more abstract use of IT without any standardisation. Each cloud works completely different and behaves different when running business applications and a variety of IT workloads.
 
-### Gener8-HC
+At Cloud4Edge we are resolving this problem.
 
-The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.
+## What Comes After Cloud? The Edge!
+Cloud4Edge introduces a hyper-distributed cloud concept to deliver only the benefits from cloud services, but not its limitations and complexity, while completely staying away from the large public cloud ventors.
 
-#### Technical
-
-* 1980 net usable GB memory
-* 288 logical CPU cores
-* 180 TB Ultra High Performance Embedded SAN Capacity
-* 56 gbit/sec internal network backplane
-* 1.000.000 IOPs (IO Operations Per Second)
-* Height of building block is 140cm
-
-### Gener8-HD
-
-Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.
-
-<style type="text/css">
-.gener8Logo {margin: -15px 0 0 0;}
-	.title { display: none;}
-	.separator-2 { display: none;}
-	.separator-2 + p { display: none;}
-</style>
+* To the Edge: hyper-distributed, private and scalable  
+* Totally Green: eco-friendly, cost-efficient capacity
+* True Commodity: comprehensive and extremly simplified
+* Future-proof: realising the next generation of clouds
