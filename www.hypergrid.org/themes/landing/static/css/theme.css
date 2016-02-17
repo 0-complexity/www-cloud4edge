@@ -4851,3 +4851,24 @@ table.cart-contents {
     #style-switcher {
       display: none; } }
 #wrap {    padding: 170px 0 0; background: #FFF;}
+
+.office {
+    float: right;
+}
+#contact-form {
+    margin-bottom: 20px;
+    float: left;
+    display: inline-block;
+}
+form input, form select, form textarea {
+    margin: 10px 0;
+}
+.office ul li {
+    font-size: 16px;
+    color: #34A4DE;
+}
+
+.office ul {
+    padding: 0;
+    margin: 0;
+}
