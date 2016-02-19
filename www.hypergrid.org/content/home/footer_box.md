@@ -9,11 +9,11 @@ first_section = "Alliances"
 first_section_title1 = "Movers & Shakers"
 first_section_link1 = "#"
 
-first_section_title1 = "Centrilogic"
-first_section_link1 = "#"
+first_section_title2 = "Centrilogic"
+first_section_link2 = "#"
 
-first_section_title1 = "Kleos"
-first_section_link1 = "#"
+first_section_title3 = "Kleos"
+first_section_link3 = "#"
 
 second_section = "Technology"
 
