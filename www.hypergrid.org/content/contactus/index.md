@@ -4,9 +4,7 @@ title = "Join the Movement"
 
 Our alliance programme allows you to either become a Cloud4Edge Operator or a Cloud4Edge Pilot, or both of course.
 
-Cloud4Edge Operators acquire and deploy cloud generators. This storage and compute capacity can then be used for your own IT workloads.
-
-As a Cloud4Edge Operator you get paid back on a monthly basis for a minimum contractually agreed capacity.
+Cloud4Edge Operators acquire and deploy cloud generators in their facilities. This storage and compute capacity can then be used for your own IT workloads or can be connected to other cloud generators.
 
 Cloud4Edge Pilots are virtual datacenter operators, aggregating IT capacity from operators, selling IaaS, PaaS and SaaS to others, directly to customers or indirectly through system integrators or value added cloud providers.  
 
