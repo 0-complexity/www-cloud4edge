@@ -4,56 +4,44 @@ title = "footer_box"
 
 footer_logo = "/images/cloud4edge-logo-white.png"
 
-first_section = "guest"
+first_section = "Alliances"
 
-first_section_title1 = "login"
+first_section_title1 = "Movers & Shakers"
 first_section_link1 = "#"
 
-first_section_title2 = "sign up"
-first_section_link2 = "#"
+first_section_title1 = "Centrilogic"
+first_section_link1 = "#"
 
-first_section_title3 = "customer support"
-first_section_link3 = "#"
+first_section_title1 = "Kleos"
+first_section_link1 = "#"
 
-first_section_title4 = "information"
-first_section_link4 = "#"
+second_section = "Technology"
 
-
-
-
-second_section = "information"
-
-second_section_title1 = "About Us"
+second_section_title1 = "Cloud4Edge Platform"
 second_section_link1 = "#"
 
-second_section_title2 = "Delivery Informations"
+second_section_title2 = "Cloud4Edge Workspace"
 second_section_link2 = "#"
 
-second_section_title3 = "Terms and conditions"
+second_section_title3 = "Cloud4Edge Big Data"
 second_section_link3 = "#"
 
-second_section_title4 = "Return Policy"
+second_section_title4 = "Cloud4Edge Marketplace"
 second_section_link4 = "#"
 
-second_section_title5 = "Shipping and Deliveries"
-second_section_link5 = "#"
 
-second_section_title6 = "Enquiries"
-second_section_link6 = "#"
+third_section = "Cloud Conspricy"
 
-
-third_section = "member"
-
-third_section_title1 = "Account"
+third_section_title1 = "IT as Energy"
 third_section_link1 = "#"
 
-third_section_title2 = "Wishlist and Favourites"
+third_section_title2 = "To the Edge"
 third_section_link2 = "#"
 
-third_section_title3 = "Purchase History"
+third_section_title3 = "True Commodity"
 third_section_link3 = "#"
 
-third_section_title4 = "View Cart"
+third_section_title4 = "Totally Green"
 third_section_link4 = "#"
 
 
