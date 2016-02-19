@@ -1,9 +1,9 @@
 +++
-title = "Gener8"
+title = "Cloud4Edge Workspace"
 +++
 
-<img class="gener8Logo" src="/images/gener8-logo.png">
-### IT Building Blocks
+<img class="gener8Logo" src="https://1.bp.blogspot.com/-ndOaPwIXrZg/VscL0zfoZuI/AAAAAAAAC3Y/ecuOgwpzvkQ/s400/Cloud4edge%2Bworkspace.1.png">
+### Technology Highlights
 
 Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.
 
