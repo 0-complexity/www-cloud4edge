@@ -2,7 +2,7 @@
 title = "Sustain the Cloud"
 +++
 
-<img class="gener8Logo" src="/images/gener8-logo.png">
+<img class="gener8Logo" src="https://3.bp.blogspot.com/-pjQAqLPRQXM/Vsb0ySaBQXI/AAAAAAAAC2c/EmBq11bEtOc/s400/Totally%2Bgreen.1.png">
 ### Totally Green
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est libero, venenatis vitae tristique nec, imperdiet aliquam lorem. Suspendisse tincidunt eros eu facilisis luctus. Suspendisse fringilla sagittis imperdiet.
