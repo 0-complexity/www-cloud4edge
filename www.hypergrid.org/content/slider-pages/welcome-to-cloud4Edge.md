@@ -2,7 +2,7 @@
 title = "Welcome to IT As Energy"
 +++
 
-<img class="gener8Logo" src="/images/gener8-logo.png">
+<img class="gener8Logo" src="https://1.bp.blogspot.com/-8QBQ6H7ysOo/Vsb0aVwvTRI/AAAAAAAAC2M/2Do4Pjx4pvs/s400/IT%2Bas%2Benergy.1.png">
 
 ## IT = Energy
 Energy is driving our global economy and the welfare of our society. The importance of Energy is driving the creation and adoption of new Energy sources, such as solar and hydro power, renewable and green energy, so more and more people can take advantage of it.
