@@ -3,11 +3,11 @@ title = "Contact Us"
 +++
 
 
-### We welcome your questions, comments and inquiries.
-Contact Racktivity for more information, questions, partner inquiries or to learn more about how the Racktivity solutions can help you save energy and improve your uptime.
+### Get in Touch
+Drop us an email at join@cloud4edge.com.
 <div class="office col-md-4">
 
-* the office
+* Conspiracy Location
 
 **Racktivity NV**<br>
 Antwerpsesteenweg 19
@@ -16,21 +16,6 @@ Antwerpsesteenweg 19
 <br>
 Belgium
 <br>
-Taxation Registration VAT: BE0809832610 (RPR Ghent)
-
-* general contact details
-
-[sales@racktivity.com](sales@racktivity.com)
-<br> 
-+32 9 324 20 90
-
-* media/analyst/ investor contact
-
-[marketing@racktivity.com](marketing@racktivity.com)
-
-* support contact
-
-[support@racktivity.com](mailto:sales@racktivity.com)
 </div>
 
 
@@ -64,5 +49,3 @@ Taxation Registration VAT: BE0809832610 (RPR Ghent)
 	    <textarea rows="4" cols="50" name="message" placeholder="Your Message" class="form-control"></textarea> 
 	    <button  type="submit" value="Send" class="btn submit">Submit</button>
 </form>
-
-  
