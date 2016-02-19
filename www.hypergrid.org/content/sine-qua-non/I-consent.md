@@ -1,8 +1,8 @@
 +++
-title = "Are you a believer?"
+title = "Our Checklist?"
 +++
 
-<img class="gener8Logo" src="https://i.vimeocdn.com/video/517037205_640.jpg">
+<img class="gener8Logo" src="https://orientation.georgetown.edu/sites/orientation/files/checklist-banner.jpg">
 ### I consent
 
 I consent to become a member of Cloud4Edge and fullfil my obligations
