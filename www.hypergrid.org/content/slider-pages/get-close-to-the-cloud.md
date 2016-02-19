@@ -2,7 +2,7 @@
 title = "Haul the Cloud"
 +++
 
-<img class="gener8Logo" src="/images/gener8-logo.png">
+<img class="gener8Logo" src="https://2.bp.blogspot.com/-QcSGZK5hIXQ/Vsb0kUj81ZI/AAAAAAAAC2U/LDO4uPgZ5u0/s400/To%2Bthe%2Bedge.1.png">
 ### To the Edge
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est libero, venenatis vitae tristique nec, imperdiet aliquam lorem. Suspendisse tincidunt eros eu facilisis luctus. Suspendisse fringilla sagittis imperdiet.
