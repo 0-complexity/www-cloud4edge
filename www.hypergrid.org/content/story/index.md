@@ -2,7 +2,7 @@
 title = "Gener8"
 +++
 
-<img class="gener8Logo" src="/images/gener8-logo.png">
+<img class="gener8Logo" src="http://outshinelabs.com/wp-content/uploads/2013/11/how-it-started.png">
 ### IT Building Blocks
 
 The internet. Remember how it all started? With universities and companies individually connecting many independent networks, collaborating and freely sharing knowledge.
