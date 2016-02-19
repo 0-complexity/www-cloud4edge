@@ -1,13 +1,13 @@
 +++
-title = "Gener8"
+title = "Are you a believer?"
 +++
 
-<img class="gener8Logo" src="/images/gener8-logo.png">
-### IT Building Blocks
+<img class="gener8Logo" src="https://i.vimeocdn.com/video/517037205_640.jpg">
+### I consent
 
-Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.
+I consent to be part of a new movement 
 
-### Gener8-PB
+### I comply
 
 This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.
 
