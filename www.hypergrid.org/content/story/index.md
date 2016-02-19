@@ -2,7 +2,7 @@
 title = "Our Story"
 +++
 
-<img class="gener8Logo" src="http://outshinelabs.com/wp-content/uploads/2013/11/how-it-started.png">
+<img class="gener8Logo" src="https://s-media-cache-ak0.pinimg.com/564x/d5/1f/ca/d51fca5215fe8c86c73b8e96b38624e3.jpg">
 
 The internet. Remember how it all started? With universities and companies individually connecting many independent networks, collaborating and freely sharing knowledge.
 
