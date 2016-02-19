@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est libero, venenati
 * Duis ultrices nunc sit amet placerat gravida.
 * Donec nec metus quis libero vestibulum iaculis.
 
-#### Cloud4Edge is Secure, Neutral and Private
+### Cloud4Edge is Secure, Neutral and Private
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est libero, venenatis vitae tristique nec, imperdiet aliquam lorem. Suspendisse tincidunt eros eu facilisis luctus. Suspendisse fringilla sagittis imperdiet.
 
