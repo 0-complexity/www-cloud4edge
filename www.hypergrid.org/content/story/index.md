@@ -5,7 +5,19 @@ title = "Gener8"
 <img class="gener8Logo" src="/images/gener8-logo.png">
 ### IT Building Blocks
 
-Gener8 are building blocks to instantly provide IT infrastructure capacity. Combining and stacking the building blocks provide you with scale-out capability for storage, compute and desktop capacity. Gener8 can also be used as stand-alone IT system in a hyperdense, silent and power-saving form factor.
+The internet. Remember how it all started? With universities and companies individually connecting many independent networks, collaborating and freely sharing knowledge.
+
+<b>And where are we now?</b>
+
+The internet evolved into huge energy-hungry datacenters, owned by a few, mainly US headquartered companies, that are racing for world dominance by capturing clients with sticky services, closely watched by foreign governmental intelligence agencies seeking access to your data. Command and control.
+
+With the fourth industrial revolution starting, in a world that has become as much dependent on IT as on energy, IT should become as energy:
+* At the edge, instead of in large datacenters, owned by a few giants. Distributed in a global grid and delivered from local branches close to you, owned by many;
+* True commodity, affordable and accessible to all, truly reliable and fundamentally simple to use;
+* Green, being eco-responsible and daring to say no to huge inefficient datacenters.
+
+<i>This is what we call IT as Energy.</i>
+
 
 ### Gener8-PB
 
