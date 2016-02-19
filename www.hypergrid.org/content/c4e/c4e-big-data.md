@@ -1,5 +1,5 @@
 +++
-title = "Gener8"
+title = "Cloud4Edge Big Data"
 +++
 
 <img class="gener8Logo" src="/images/gener8-logo.png">
