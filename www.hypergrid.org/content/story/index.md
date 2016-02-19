@@ -15,7 +15,7 @@ With the fourth industrial revolution starting, in a world that has become as mu
 * True commodity, affordable and accessible to all, truly reliable and fundamentally simple to use;
 * Green, being eco-responsible and daring to say no to huge inefficient datacenters.
 
-<i>This is what we call IT as Energy.</i>
+<i><b>This is what we call IT as Energy.</b></i>
 
 ### To the Edge
 Delivering IT at the edge comes down to deploying a geo-scale, hyper-distributed grid of multiple thousands of intelligently interconnected cloud nodes, each of them as close as possible to their users. At all times data will be owned by the users and under their full control. The nodes themselves need to be self-healing, only requiring minimal intervention by the local operator. 
