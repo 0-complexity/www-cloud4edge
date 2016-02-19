@@ -1,9 +1,4 @@
-+++
-title = "Gener8"
-+++
-
 <img class="gener8Logo" src="http://outshinelabs.com/wp-content/uploads/2013/11/how-it-started.png">
-### IT Building Blocks
 
 The internet. Remember how it all started? With universities and companies individually connecting many independent networks, collaborating and freely sharing knowledge.
 
@@ -18,46 +13,11 @@ With the fourth industrial revolution starting, in a world that has become as mu
 
 <i>This is what we call IT as Energy.</i>
 
+### To the Edge
+Delivering IT at the edge comes down to deploying a geo-scale, hyper-distributed grid of multiple thousands of intelligently interconnected cloud nodes, each of them as close as possible to their users. At all times data will be owned by the users and under their full control. The nodes themselves need to be self-healing, only requiring minimal intervention by the local operator. 
 
-### Gener8-PB
+### True Commodity
+True commodity is achieved by constantly questioning design, avoiding and eliminating any form of unnecessary complexity, keeping it simple and as a result very cost-effective. Commodity also requires ultra reliable storage of all data. Just as with electricity data should always be available, close to the user, wherever he goes. Something that can only be achieved using a modern geo-scale storage architecture.
 
-This building block generates 1.5 petabyte of storage in only 1 meter. This compares to capacity needed for 350,000 DVD movies, 500,000,000 high definition pictures and thousands of hours surveillance camera storage.
-
-* Petabyte archive building block, no limits to scalability
-* Power-friendly, comparable with energy for 2 toasters
-* Self-healing and regenarating storage
-* Simplified interfaces, standard fileserver
-* Digital preservation is possible for 30+ years
-
-#### Technical
-
-* 1.5 PB
-* NAS & SAN Interface
-* 56 Gbit/sec ethernet
-* 2.000 MB/sec ingest speed
-* 1.000.000 IOPs (IO Operations Per Second)
-* Height of building block is 140cm
-
-### Gener8-HC
-
-The hyperconverged building block has both storage and compute capacity for heavy production workloads. It can handle most applications available in the world. One generator is only 1 meter high and can run 500 virtual machines or 2500 workspaces.
-
-#### Technical
-
-* 1980 net usable GB memory
-* 288 logical CPU cores
-* 180 TB Ultra High Performance Embedded SAN Capacity
-* 56 gbit/sec internal network backplane
-* 1.000.000 IOPs (IO Operations Per Second)
-* Height of building block is 140cm
-
-### Gener8-HD
-
-Standalone hyperdense IT system. Office form factor. Release in Q4 of 2015.
-
-<style type="text/css">
-.gener8Logo {margin: -15px 0 0 0;}
-	.title { display: none;}
-	.separator-2 { display: none;}
-	.separator-2 + p { display: none;}
-</style>
+### Totally Green
+Most energy-friendly efforts today are focused on how energy is generated. At least as much can be realized by optimizing how energy is consumed, simply by using less hardware for delivering the same result. This again by eliminating complexity, such as legacy and even modern software-defined abstraction levels and instead keep as close to bare metal as possible. Also using more effective storage algorithms results in less disks for the same or even better reliability and a hyper-converged approach translates into lower energy consumption for equal and often better value.
