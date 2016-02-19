@@ -18,7 +18,7 @@ Drop us an email at join@cloud4edge.com.
 
 * Conspiracy Location
 
-**Racktivity NV**<br>
+Cloud4Edge<br>
 Antwerpsesteenweg 19
 <br>
 9080 Lochristi
