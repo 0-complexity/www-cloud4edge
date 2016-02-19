@@ -8,26 +8,26 @@ title = "Cloud4Edge Platform"
 
 The unbreakable platform which allows people to consume IT As Energy and run any possible IT workload in the cloud.
 
-####Your customers can buy:
+#### Your customers can buy:
 * compute capacity: elastic and dynamic compute power to run any kind of applications, database or container
 * storage capacity: geographical scalable and high-available storage for production workloads or archiving
 * network capacity: connecting and securing your cloud infrastructure
 
-####You provide services:
+#### You provide services:
 * managed virtual and physical machines and containers
 * security services such as firewalling, DoS prevention
 * connectivity services such as virtual private networks
 * portal services such as a virtual datacenter dashboard
 
-####Provisioning interfaces:
+#### Provisioning interfaces:
 * Rest API
 * Blue Print Technology
 * Chat = Telegram
 * Command Line
 
-####Available: NOW
+#### Available: NOW
 
-###Technologies Frameworks
+### Technologies Frameworks
 * G8 OS = Operating System (*)
 * G8 Boot (2.1)
 * G8 FS = File System (2.1)
