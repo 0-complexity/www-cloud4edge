@@ -1,5 +1,5 @@
 +++
-title = "Our Story"
+title = " "
 +++
 
 <img class="gener8Logo" src="https://s-media-cache-ak0.pinimg.com/564x/d5/1f/ca/d51fca5215fe8c86c73b8e96b38624e3.jpg">
