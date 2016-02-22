@@ -1,4 +1,4 @@
-http://gig-hypergrid.aydo.com:6854 {
+http://gig-cloud4edge.aydo.com:6854 {
     bind 0.0.0.0
     gzip
     root www.cloud4edge.com
