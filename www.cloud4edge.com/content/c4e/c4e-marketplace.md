@@ -6,15 +6,16 @@ title = "Cloud4Edge Marketplace"
 
 ### Technology Highlights
 
-Bring partner solutions life in neutral and indepedent marketplace in order to drive business to our platforms.
+Public cloud marketplace that acts as neutral and indepedent broker. This drives business to our community partners.
 
 #### Your customers can buy:
-To be announced
+Infrastructure as a Service - directly from the Cloud4Edge marketplace
+Platform as a Service - directly from the Cloud4Edge marketplace
+Software as a Service - directly from the Cloud4Edge marketplace
 
 #### You provide services:
-To be announced
+Public cloud from decentral cloud network
+Private cloud from decentral cloud network
+Hybrid cloud from decentral cloud network
 
-#### Available: 2017
-
-### Technologies Frameworks
-Not disclosed yet
+#### Available: Q3 2016
