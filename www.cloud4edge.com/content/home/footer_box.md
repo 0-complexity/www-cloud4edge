@@ -45,5 +45,5 @@ third_section_title4 = "Totally Green"
 third_section_link4 = "#"
 
 
-copy_right = "© 2015 Green IT Globe NV. All Rights Reserved."
+copy_right = "© 2016 Cloud4Edge. All Rights Reserved."
 +++
