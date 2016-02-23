@@ -18,7 +18,7 @@ first_solution_date = "Increase the edge footprint"
 second_solution_icon = "/images/solution2.png"
 second_solution_title = "Drive Development"
 second_solution_link = "#"
-second_solution_date = "Software innovation at the edge"
+second_solution_date = "Drive real innovation to the edge"
 
 third_solution_icon = "/images/solution3.png"
 third_solution_title = "Deliver IT as Energy"
