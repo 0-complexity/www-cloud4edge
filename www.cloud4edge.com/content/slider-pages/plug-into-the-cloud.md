@@ -5,19 +5,19 @@ title = "Hail the Cloud"
 <img class="gener8Logo" src="https://1.bp.blogspot.com/-uoL6sTn8o5Q/Vsb07X6nhoI/AAAAAAAAC2k/IbLV2JIvILk/s400/True%2Bcommodity.1.png">
 ## True Commodity
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est libero, venenatis vitae tristique nec, imperdiet aliquam lorem. Suspendisse tincidunt eros eu facilisis luctus. Suspendisse fringilla sagittis imperdiet.
+We believe IT should be as available and accessible as electricity. With 15 years of experience in building the world first clouds we are now transforming the industry by simplifying and delivering the benefits of the cloud as a commodity. 
 
 ### Cloud4Edge is Cost-Effective
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est libero, venenatis vitae tristique nec, imperdiet aliquam lorem. Suspendisse tincidunt eros eu facilisis luctus. Suspendisse fringilla sagittis imperdiet.
+We have eliminated a lot of technology layers to realize our cloud generators.
 
-* Donec aliquet arcu tempor, tristique mauris ut, lacinia erat.
-* Duis ultrices nunc sit amet placerat gravida.
-* Donec nec metus quis libero vestibulum iaculis.
+* Robust and eco-friendly hardware, no premium hardware
+* Minimal consumption of electricity to power the clouds
+* Driven by open source, without the need to license software
 
 ### Cloud4Edge is Comprehensive
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est libero, venenatis vitae tristique nec, imperdiet aliquam lorem. Suspendisse tincidunt eros eu facilisis luctus. Suspendisse fringilla sagittis imperdiet.
+We have simplified the user interfaces and are creating a user experience that is fast and real-time
 
 * Easy-to-use
 * No complexity
@@ -25,8 +25,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est libero, venenati
 
 ### Cloud4Edge is Ultra-Reliable
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut est libero, venenatis vitae tristique nec, imperdiet aliquam lorem. Suspendisse tincidunt eros eu facilisis luctus. Suspendisse fringilla sagittis imperdiet.
+By design the cloud generators are stand-alone clustered, while connected to the grid, it distributes data
 
-* Donec aliquet arcu tempor, tristique mauris ut, lacinia erat.
-* Duis ultrices nunc sit amet placerat gravida.
-* Donec nec metus quis libero vestibulum iaculis.
+* Data is always available
+* Outages do not impact the service
+* No backups or disaster recovery software needed
