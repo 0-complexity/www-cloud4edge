@@ -22,13 +22,4 @@ Centralisation is blocking, so big data is very captive and requires the edge cl
 * Geoscale mySQL database
 * Geoscale full text search
 
-#### Provisioning interfaces:
-* Rest API
-* Blue Print Technology
-* Chat = Telegram
-* Command Line
-
 #### Available: Alpha
-
-### Technologies Frameworks
-Not disclosed yet

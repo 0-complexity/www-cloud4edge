@@ -21,17 +21,8 @@ Securely deliver your applications directly from a cloud local to your user.
 * Version controlled storage with collaboration capabilities
 * Mail / Chat / VOIP integrated (end 2016)
 
-#### Provisioning interfaces:
-* Rest API
-* Blue Print Technology
-* Chat = Telegram
-* Command Line
 
 #### Available: Beta
 
 ### Technologies Frameworks
 * Awingu.com
-* Free Linux desktop
-* G8 SafeKeeper for secure access
-* Follow me atorage aystem
-* ItsYou.Online identity management
