@@ -4872,3 +4872,10 @@ form input, form select, form textarea {
     padding: 0;
     margin: 0;
 }
+.icon-img {
+
+}
+.icon-img img {
+  
+width: 12px;
+}

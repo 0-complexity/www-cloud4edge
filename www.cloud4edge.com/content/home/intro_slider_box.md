@@ -10,7 +10,7 @@ slide1_text = "Imagine a world in which privacy is no longer in the hands of a h
 slide1_button = "Welcome to Cloud4Edge"
 slide1_more_link = "/slider-pages/welcome-to-cloud4Edge"
 slide1_pic = "/images/1.jpg" 
-
+icon1 = "/images/it-as-energy.png"
 
 slide2_title_main_button = "To the Edge"
 slide2_title_small = "Haul the Cloud"
@@ -19,6 +19,7 @@ slide2_text = "Privacy is a human right. Your data should be stored local to you
 slide2_button = "Get Close to the Cloud"
 slide2_more_link = "/slider-pages/get-close-to-the-cloud"
 slide2_pic = "/images/2.jpg" 
+icon2 = "/images/to-the-edge.png"
 
 slide3_title_main_button = "True Commodity"
 slide3_title_small = "Hail the Cloud"
@@ -27,6 +28,7 @@ slide3_text = "Knowledge should be free and accessible. There should be no need 
 slide3_button = "Plug into the Cloud"
 slide3_more_link = "/slider-pages/plug-into-the-cloud"
 slide3_pic = "/images/3.jpg" 
+icon3 = "/images/true-commodity.png"
 
 
 slide4_title_main_button = "Totally Green"
@@ -36,6 +38,6 @@ slide4_text = "Today's clouds have the same carbon footprint as the airline indu
 slide4_button = "Take Responsibility"
 slide4_more_link = "/slider-pages/take-responsibility"
 slide4_pic = "/images/4.jpg" 
-
+icon4 = "/images/totally-green.png"
 
 +++
