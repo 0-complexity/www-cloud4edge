@@ -19,10 +19,4 @@ The unbreakable platform which allows people to consume IT As Energy and run any
 * connectivity services such as virtual private networks
 * portal services such as a virtual datacenter dashboard
 
-#### Provisioning interfaces:
-* Rest API
-* Blue Print Technology
-* Chat = Telegram
-* Command Line
-
 #### Available: NOW
