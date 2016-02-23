@@ -26,25 +26,3 @@ The unbreakable platform which allows people to consume IT As Energy and run any
 * Command Line
 
 #### Available: NOW
-
-### Technologies Frameworks
-* G8 OS = Operating System (*)
-* G8 Boot (2.1)
-* G8 FS = File System (2.1)
-* G8 Scheduler (2.1)
-* G8 Monitor (2.1)
-* G8 Store
-* G8 Disk
-* G8 Zetastor (Q2)
-* G8 Geoscale (Q2)
-* G8 Automate
-* G8 Blue Prints
-* G8 Lizard  (self healing)
-* G8 Cloud Robot (full life cycle management, under control of endusers & expendible)
-* G8 Jumpscale (framework underneath, automation made easy)
-* G8 Security
-* G8 SDN
-* G8 Proxy
-* G8 Vault (Q2 16)
-* G8 ItsYou.Online (Q2 16)
-* G8 Safekeeper (ultra secure remote access to cloud resources) (Q2 16)
