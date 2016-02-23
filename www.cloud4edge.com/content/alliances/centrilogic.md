@@ -2,7 +2,7 @@
 title = "Mothership1 Cloud"
 +++
 
-<img class="gener8Logo" src="/images/gener8-logo.png">
+<img class="gener8Logo" src="https://biz.prlog.org/centrilogic/logo.jpg">
 ### Alliance Partner Centrilogic
 
 Centrilogic is a Canadian IT provider which is generating edge capacity in North America, Europe and Asia. Their network connects with all major backbones enabling Cloud4Edge to have a large footprint of cloud capacity. Centrilogic has also deployed a public cloud platform: Mothership1.com.
