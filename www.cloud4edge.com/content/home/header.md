@@ -3,9 +3,8 @@
 title = "header"
 
 email = "join@cloud4edge.com"
-linkedin_link = "#"
-facebook_link = "#"
-twitter_link = "#"
+facebook_link = "https://www.facebook.com/cloud4edge"
+twitter_link = "https://twitter.com/cloud4edge"
 logo_img = "/images/cloud4edge-logo.png"
 logo_large_img = "/images/cloud4edge-logo.png"
 +++
