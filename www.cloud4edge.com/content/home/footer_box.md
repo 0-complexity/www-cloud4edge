@@ -5,6 +5,7 @@ title = "footer_box"
 footer_logo = "/images/cloud4edge-logo-white.png"
 
 first_section = "Community Partners"
+
 first_section_title2 = "Centrilogic"
 first_section_link2 = "/alliances/centrilogic/"
 

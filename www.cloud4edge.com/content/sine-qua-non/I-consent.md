@@ -20,7 +20,7 @@ I comply with the requirements to deliver my cloud capacity as IT as Energy and 
 * Cost-effective
 * Ultra-reliable
 
-#### I concur
+### I concur
 
 I concur to say no to power-hungry datacenters and take responsibility to lower my carbon footprint
 
