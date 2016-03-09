@@ -3,7 +3,7 @@ http://cloud4edge.com:98 {
     gzip
     root www.cloud4edge.com
     git {
-       repo git@git.aydo.com:static-websites/www-cloud4edge.git
+       repo git@github.com:0-complexity/www-cloud4edge.git
        interval 300
        key ../keys/id_rsa
        path ../
