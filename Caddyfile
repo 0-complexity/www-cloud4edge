@@ -1,10 +1,9 @@
-http://gig-cloud4edge.aydo.com:6854 {
+http://cloud4edge.com:98 {
     bind 0.0.0.0
     gzip
     root www.cloud4edge.com
     git {
-       repo git@github.com:0-complexity/www-cloud4edge.git
-       branch production
+       repo git@git.aydo.com:static-websites/www-cloud4edge.git
        interval 300
        key ../keys/id_rsa
        path ../
